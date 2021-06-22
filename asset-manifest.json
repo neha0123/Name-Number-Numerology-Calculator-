@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Name-Number-Numerology-Calculator-/static/css/main.bf888884.chunk.css",
+    "main.js": "/Name-Number-Numerology-Calculator-/static/js/main.d5c90358.chunk.js",
+    "main.js.map": "/Name-Number-Numerology-Calculator-/static/js/main.d5c90358.chunk.js.map",
+    "runtime-main.js": "/Name-Number-Numerology-Calculator-/static/js/runtime-main.fd089f13.js",
+    "runtime-main.js.map": "/Name-Number-Numerology-Calculator-/static/js/runtime-main.fd089f13.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Name-Number-Numerology-Calculator-/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ae001acb.chunk.js": "/Name-Number-Numerology-Calculator-/static/js/2.ae001acb.chunk.js",
+    "static/js/2.ae001acb.chunk.js.map": "/Name-Number-Numerology-Calculator-/static/js/2.ae001acb.chunk.js.map",
+    "index.html": "/Name-Number-Numerology-Calculator-/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Name-Number-Numerology-Calculator-/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.bf888884.chunk.css.map": "/Name-Number-Numerology-Calculator-/static/css/main.bf888884.chunk.css.map",
+    "static/js/2.ae001acb.chunk.js.LICENSE.txt": "/Name-Number-Numerology-Calculator-/static/js/2.ae001acb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd089f13.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ae001acb.chunk.js",
+    "static/css/main.bf888884.chunk.css",
+    "static/js/main.d5c90358.chunk.js"
+  ]
+}
